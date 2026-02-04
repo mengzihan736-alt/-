@@ -1,0 +1,8 @@
+
+{
+  "name": "CalorieAI - Fresh Food Recognition",
+  "description": "An AI-powered calorie tracking app that recognizes food through your camera, provides nutritional breakdowns, and tracks your daily goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
